@@ -6,7 +6,7 @@ DOM exploration
 * element
 * selectors
 * altering DOM node
-    * creating and appending elements
+    * creating, appending, and deleting elements
 * nodelist
     * same as an array of nodes minus a few methods
 * array of node
